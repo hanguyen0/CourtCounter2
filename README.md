@@ -1,2 +1,3 @@
 # CourtCounter2
-Udacity intro to Android. This app count points of Team A vs Team B
+This app count points of Team A vs Team B
+Udacity ANDROIDbeginner-Grow with Google Scholarship course
